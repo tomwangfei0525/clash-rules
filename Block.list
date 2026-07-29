@@ -56,13 +56,12 @@ DOMAIN-SUFFIX,smhric.org
 DOMAIN-SUFFIX,tahr.org.tw
 DOMAIN-SUFFIX,chinaaid.net
 DOMAIN-SUFFIX,molihua.org
-DOMAIN-SUFFIX,blogspot.com
+#DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,tiandixing.org
 DOMAIN-SUFFIX,internetfreedom.org
 DOMAIN-SUFFIX,wujieliulan.com
 DOMAIN-SUFFIX,xinqiaonet.com
 DOMAIN-SUFFIX,fawanghuihui.org
-DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,christusrex.org
 DOMAIN-SUFFIX,centralnation.com
 DOMAIN-SUFFIX,yhcw.net
