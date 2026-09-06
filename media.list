@@ -1,0 +1,65 @@
+  # U-NEXT
+  - DOMAIN-SUFFIX,unext.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,nxtv.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,unext.org,🇯🇵 Japan Media
+
+  # Hulu Japan
+  - DOMAIN-SUFFIX,hulu.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,happyon.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,hjholdings.jp,🇯🇵 Japan Media
+
+  # Lemino / dTV
+  - DOMAIN-SUFFIX,lemino.docomo.ne.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,dtv.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,dmkt-sp.jp,🇯🇵 Japan Media
+
+  # DMM TV
+  - DOMAIN-SUFFIX,dmm.com,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,dmm.tv,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,videomarket.jp,🇯🇵 Japan Media
+
+  # TELASA
+  - DOMAIN-SUFFIX,telasa.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,videopass.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,kddi-video.com,🇯🇵 Japan Media
+
+  # FOD
+  - DOMAIN-SUFFIX,fod.fujitv.co.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,fujitv.co.jp,🇯🇵 Japan Media
+
+  # Paravi
+  - DOMAIN-SUFFIX,paravi.jp,🇯🇵 Japan Media
+
+  # TVer
+  - DOMAIN-SUFFIX,tver.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,gorin.jp,🇯🇵 Japan Media
+
+  # ABEMA
+  - DOMAIN-SUFFIX,abema.tv,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,ameba.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,abema.io,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,hayabusa.io,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,hayabusa.media,🇯🇵 Japan Media
+
+  # NHK Plus
+  - DOMAIN-SUFFIX,nhk.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,nhk.or.jp,🇯🇵 Japan Media
+
+  # d Anime Store
+  - DOMAIN-SUFFIX,animestore.docomo.ne.jp,🇯🇵 Japan Media
+
+  # Niconico
+  - DOMAIN-SUFFIX,nicovideo.jp,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,niconico.com,🇯🇵 Japan Media
+  - DOMAIN-KEYWORD,dmc.nico,🇯🇵 Japan Media
+
+  # AWA
+  - DOMAIN-SUFFIX,awa.fm,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,awa-cdn.net,🇯🇵 Japan Media
+
+  # LINE MUSIC
+  - DOMAIN-SUFFIX,line-scdn.net,🇯🇵 Japan Media
+
+  # KKBOX
+  - DOMAIN-SUFFIX,kkbox.com,🇯🇵 Japan Media
+  - DOMAIN-SUFFIX,kfs.io,🇯🇵 Japan Media
