@@ -1,65 +1,50 @@
-  # U-NEXT
-  - DOMAIN-SUFFIX,unext.jp
-  - DOMAIN-SUFFIX,nxtv.jp
-  - DOMAIN-SUFFIX,unext.org
-
-  # Hulu Japan
-  - DOMAIN-SUFFIX,hulu.jp
-  - DOMAIN-SUFFIX,happyon.jp
-  - DOMAIN-SUFFIX,hjholdings.jp
-
-  # Lemino / dTV
-  - DOMAIN-SUFFIX,lemino.docomo.ne.jp
-  - DOMAIN-SUFFIX,dtv.jp
-  - DOMAIN-SUFFIX,dmkt-sp.jp
-
-  # DMM TV
-  - DOMAIN-SUFFIX,dmm.com
-  - DOMAIN-SUFFIX,dmm.tv
-  - DOMAIN-SUFFIX,videomarket.jp
-
-  # TELASA
-  - DOMAIN-SUFFIX,telasa.jp
-  - DOMAIN-SUFFIX,videopass.jp
-  - DOMAIN-SUFFIX,kddi-video.com
-
-  # FOD
-  - DOMAIN-SUFFIX,fod.fujitv.co.jp
-  - DOMAIN-SUFFIX,fujitv.co.jp
-
-  # Paravi
-  - DOMAIN-SUFFIX,paravi.jp
-
-  # TVer
-  - DOMAIN-SUFFIX,tver.jp
-  - DOMAIN-SUFFIX,gorin.jp
-
-  # ABEMA
-  - DOMAIN-SUFFIX,abema.tv
-  - DOMAIN-SUFFIX,ameba.jp
-  - DOMAIN-SUFFIX,abema.io
-  - DOMAIN-SUFFIX,hayabusa.io
-  - DOMAIN-SUFFIX,hayabusa.media
-
-  # NHK Plus
-  - DOMAIN-SUFFIX,nhk.jp
-  - DOMAIN-SUFFIX,nhk.or.jp
-
-  # d Anime Store
-  - DOMAIN-SUFFIX,animestore.docomo.ne.jp
-
-  # Niconico
-  - DOMAIN-SUFFIX,nicovideo.jp
-  - DOMAIN-SUFFIX,niconico.com
-  - DOMAIN-KEYWORD,dmc.nico
-
-  # AWA
-  - DOMAIN-SUFFIX,awa.fm
-  - DOMAIN-SUFFIX,awa-cdn.net
-
-  # LINE MUSIC
-  - DOMAIN-SUFFIX,line-scdn.net
-
-  # KKBOX
-  - DOMAIN-SUFFIX,kkbox.com
-  - DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,unext.jp
+DOMAIN-SUFFIX,nxtv.jp
+DOMAIN-SUFFIX,unext.org
+# Hulu Japan
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hjholdings.jp
+# Lemino / dTV
+DOMAIN-SUFFIX,lemino.docomo.ne.jp
+DOMAIN-SUFFIX,dtv.jp
+DOMAIN-SUFFIX,dmkt-sp.jp
+# DMM TV
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm.tv
+DOMAIN-SUFFIX,videomarket.jp
+# TELASA
+DOMAIN-SUFFIX,telasa.jp
+DOMAIN-SUFFIX,videopass.jp
+DOMAIN-SUFFIX,kddi-video.com
+# FOD
+DOMAIN-SUFFIX,fod.fujitv.co.jp
+DOMAIN-SUFFIX,fujitv.co.jp
+# Paravi
+DOMAIN-SUFFIX,paravi.jp
+# TVer
+DOMAIN-SUFFIX,tver.jp
+DOMAIN-SUFFIX,gorin.jp
+# ABEMA
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,hayabusa.media
+# NHK Plus
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhk.or.jp
+# d Anime Store
+DOMAIN-SUFFIX,animestore.docomo.ne.jp
+# Niconico
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-KEYWORD,dmc.nico
+# AWA
+DOMAIN-SUFFIX,awa.fm
+DOMAIN-SUFFIX,awa-cdn.net
+# LINE MUSIC
+DOMAIN-SUFFIX,line-scdn.net
+# KKBOX
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kfs.io
