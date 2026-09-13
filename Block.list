@@ -185,7 +185,6 @@ DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,dailymotioncdn.com
 DOMAIN-SUFFIX,dalailama.com
 DOMAIN-SUFFIX,dcard.tw
-DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,deezer.io
 DOMAIN-SUFFIX,derpibooru.org
@@ -680,15 +679,12 @@ DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,businessweekly.com.tw
 DOMAIN-SUFFIX,cablenews.i-cable.com
 DOMAIN-SUFFIX,cabletv.com.hk
-DOMAIN-SUFFIX,chat.google.com
-DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,ctitv.com.tw
 DOMAIN-SUFFIX,cts.com.tw
 DOMAIN-SUFFIX,digitimes.com.tw
 DOMAIN-SUFFIX,discuss.com.hk
 DOMAIN-SUFFIX,dpp.org.tw
-DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,ebc.net.tw
 DOMAIN-SUFFIX,etnet.com.hk
 DOMAIN-SUFFIX,expedia.co.uk
@@ -697,7 +693,6 @@ DOMAIN-SUFFIX,ey.gov.tw
 DOMAIN-SUFFIX,ftvnews.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,goo.ne.jp
-DOMAIN-SUFFIX,google.com.tw
 DOMAIN-SUFFIX,hatena.ne.jp
 DOMAIN-SUFFIX,headline.com.hk
 DOMAIN-SUFFIX,hkcd.com.hk
@@ -719,7 +714,6 @@ DOMAIN-SUFFIX,president.gov.tw
 DOMAIN-SUFFIX,pts.org.tw
 DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,rti.org.tw
-DOMAIN-SUFFIX,scholar.google.com
 DOMAIN-SUFFIX,scratch.mit.edu
 DOMAIN-SUFFIX,settv.com.tw
 DOMAIN-SUFFIX,smh.com.au
