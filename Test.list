@@ -58,7 +58,6 @@ DOMAIN-SUFFIX,ipaddress.me
 DOMAIN-SUFFIX,ip2proxy.com
 DOMAIN-SUFFIX,vpnapi.io
 IP-CIDR,74.125.250.129/24,no-resolve
-#DOMAIN-SUFFIX,l.google.com
 DOMAIN-SUFFIX,testmy.net
 DOMAIN-SUFFIX,iplocation.net
 DOMAIN-SUFFIX,ipqualityscore.com
